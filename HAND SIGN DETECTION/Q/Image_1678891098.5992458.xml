@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Q</folder>
+	<filename>Image_1678891098.5992458.jpg</filename>
+	<path>D:\GitHub\Hand_sign-Recognition-ASL\HAND SIGN DETECTION\Q\Image_1678891098.5992458.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Q</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>2</ymin>
+			<xmax>295</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>
